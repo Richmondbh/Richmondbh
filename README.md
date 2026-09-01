@@ -19,14 +19,14 @@
   </a>
 </p>
 
-> Founder & Lead Software Engineer at **RHB Digital**, focused on building secure, maintainable and scalable software solutions across backend development, cloud, APIs, automation and DevOps.  
+> Founder & Lead Software Developer at **RHB Digital**, focused on building secure, maintainable and scalable software solutions across backend development, cloud, APIs, automation and DevOps.  
 > Microsoft Certified **Azure Developer Associate (AZ-204)** with a strong focus on translating engineering principles into real-world systems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am the **Founder & Lead Software Engineer at RHB Digital**, a software development and digital consulting business based in Östersund, Sweden.
+I am the **Founder & Lead Software Developer at RHB Digital**, a software development and digital consulting business based in Östersund, Sweden.
 
 I work across the full software delivery lifecycle — from understanding requirements and designing architecture to development, API integration, cloud deployment, automation, testing and ongoing maintenance.
 
