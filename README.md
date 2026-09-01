@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Richmond Boakye</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-9-purple" />
-  <img src="https://img.shields.io/badge/Azure-AZ--204-blue" />
-  <img src="https://img.shields.io/badge/Backend-Developer-success" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-DDD%20%7C%20CQRS-orange" />
+  <img src="https://img.shields.io/badge/Azure-Microsoft%20Certified-blue" />
+  <img src="https://img.shields.io/badge/Software-Engineer-success" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Azure%20%7C%20CI%2FCD-orange" />
 </p>
 
 <p align="center">
@@ -13,39 +14,59 @@
   <a href="https://www.linkedin.com/in/richmond-boakye-188678207/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
+  <a href="https://rhbdigital.se">
+    <img alt="Website" src="https://img.shields.io/badge/Website-rhbdigital.se-black?logo=google-chrome" />
+  </a>
 </p>
 
-> Backend-focused software developer with a strong interest in cloud-native systems, clean architecture, and real-world scalability.  
-> Microsoft Certified **Azure Developer Associate (AZ-204)** and Informatics (Systems Development) student at Mid Sweden University.
+> Founder & Lead Software Engineer at **RHB Digital**, focused on building secure, maintainable and scalable software solutions across backend development, cloud, APIs, automation and DevOps.  
+> Microsoft Certified **Azure Developer Associate (AZ-204)** with a strong focus on translating engineering principles into real-world systems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I currently work as an **IT Representative at Internationella Engelska Skolan (IES) Östersund**, where I support digital infrastructure and daily IT operations in a bilingual educational environment.  
-This role gives me hands-on exposure to **real-world system reliability, user-centered design, and GDPR-aware data handling**.
+I am the **Founder & Lead Software Engineer at RHB Digital**, a software development and digital consulting business based in Östersund, Sweden.
 
-In parallel, I’m actively transitioning deeper into **backend and cloud development**, focusing on building **production-ready systems** rather than tutorial projects.
+I work across the full software delivery lifecycle — from understanding requirements and designing architecture to development, API integration, cloud deployment, automation, testing and ongoing maintenance.
+
+My main areas of work include:
+
+- Custom software and web applications
+- Backend systems and REST APIs
+- Business automation
+- Azure cloud solutions
+- DevOps and CI/CD
+- Shopify and e-commerce integrations
+- System architecture and maintainability
+
+Alongside RHB Digital, I work as an **IT Representative at Internationella Engelska Skolan (IES) Östersund**, supporting users, devices, accounts, access and digital platforms.
+
+I am also studying **Informatics with a specialisation in Systems Development at Mid Sweden University**.
 
 ---
 
 ## 🚀 Featured Project – Library Management API
 
-A **production-ready .NET 9 Web API** built as a complete redesign of my earlier *BookCollection API*, applying enterprise patterns learned from **Azure AZ-204** in a real system.
+A **production-ready .NET 9 Web API** built as a complete redesign of my earlier *BookCollection API*, applying enterprise architecture patterns, cloud services and DevOps practices in a real system.
 
 ### Key Highlights
-- Clean Architecture with **Domain, Application, Infrastructure, API**
+
+- Clean Architecture with **Domain, Application, Infrastructure and API layers**
 - **CQRS with MediatR**
 - Pipeline Behaviors:
   - Logging
   - FluentValidation
-  - Redis-based Caching
+  - Redis-based caching
 - **JWT Authentication** with role-based authorization
 - **PostgreSQL + EF Core 9**
-- **Azure Service Bus** + **Azure Functions**
-- **Azure Blob Storage** for file uploads
-- **Docker & Docker Compose** for local orchestration
-- **65+ unit & integration tests**
+- **Azure Service Bus**
+- **Azure Functions**
+- **Azure Blob Storage**
+- **Application Insights**
+- **Docker & Docker Compose**
+- **GitHub Actions CI/CD**
+- **65+ unit and integration tests**
 
 🔗 **Repository:**  
 👉 https://github.com/Richmondbh/LibraryManagement
@@ -53,78 +74,20 @@ A **production-ready .NET 9 Web API** built as a complete redesign of my earlier
 ---
 
 ## 🧱 Architecture Overview
+
+```text
 API
-└── Application (CQRS, Validators, Behaviors)
-└── Domain (Entities, Business Rules)
-└── Infrastructure (EF Core, Redis, Azure Services)
-
-
-Designed as a **modular monolith**, optimized for:
-- maintainability
-- testability
-- cloud readiness
-- future scalability
-
----
-
-## 🛠 Tech Stack
-
-### Backend & Architecture
-- ASP.NET Core (.NET 9)
-- Entity Framework Core
-- Clean Architecture & DDD
-- CQRS with MediatR
-- FluentValidation
-
-### Cloud & Azure
-- Azure App Service
-- Azure Functions
-- Azure Service Bus
-- Azure Blob Storage
-- Application Insights
-
-### DevOps & Tooling
-- Docker & Docker Compose
-- GitHub Actions (CI/CD)
-- PostgreSQL
-- Redis Cache
-
-### Testing
-- xUnit
-- FluentAssertions
-- Moq
-- Integration testing with WebApplicationFactory
-
----
-
-## 🎯 Current Focus
-
-- Cloud-native backend development
-- Event-driven architecture
-- Container-based deployments
-- Performance optimization
-- CI/CD and Azure deployments
-- Educational technology systems
-
----
-
-## 📚 Learning Philosophy
-
-> I treat certifications as a **starting point**, not the goal.  
-> My focus is on **translating theory into production-quality code** and continuously refining architectural decisions through real projects.
-
----
-
-## 🤝 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/richmond-boakye-188678207/
-- **GitHub:** https://github.com/Richmondbh  
-- **Email:** richmondboakye0017@gmail.com  
-
----
-
-## ⭐ Support
-
-If you find my projects helpful or interesting, feel free to ⭐️ the repositories — it’s always appreciated!
-
-
+│
+├── Application
+│   ├── CQRS
+│   ├── Validators
+│   └── Pipeline Behaviors
+│
+├── Domain
+│   ├── Entities
+│   └── Business Rules
+│
+└── Infrastructure
+    ├── EF Core
+    ├── Redis
+    └── Azure Services
