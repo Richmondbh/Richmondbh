@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Richmond Boakye 👋</h1>
 
 <p align="center">
+  <img alt="C#/.NET and Azure developer; Shopify theme development; Python automation; building practical software in Sweden" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1500&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=55&amp;lines=C%23%2F.NET+%26+Azure+Developer;Shopify+Theme+Development;Python+Automation;Building+practical+software+in+Sweden" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/Richmondbh/LibraryManagement"><img alt=".NET 9" src="https://img.shields.io/badge/.NET-9-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" /></a>
   <img alt="Azure Developer Associate AZ-204" src="https://img.shields.io/badge/Azure-AZ--204_Certified-0078D4?style=for-the-badge" />
   <a href="https://github.com/Richmondbh/VoicePilot"><img alt="Python automation" src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" /></a>
