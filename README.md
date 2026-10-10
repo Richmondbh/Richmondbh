@@ -18,7 +18,7 @@
   <a href="https://github.com/Richmondbh?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Richmondbh?label=Follow&amp;style=social" /></a>
 </p>
 
-<p align="center"><a href="#what-i-work-on">Skills</a> · <a href="#featured-project-library-management-api">Featured API</a> · <a href="#more-selected-work">Projects</a> · <a href="#background">Background</a> · <a href="#lets-work-together">Contact</a></p>
+<p align="center"><a href="https://github.com/Richmondbh/Richmondbh/blob/main/README.md#what-i-work-on">Skills</a> · <a href="https://github.com/Richmondbh/Richmondbh/blob/main/README.md#featured-project-library-management-api">Featured API</a> · <a href="https://github.com/Richmondbh/Richmondbh/blob/main/README.md#more-selected-work">Projects</a> · <a href="https://github.com/Richmondbh/Richmondbh/blob/main/README.md#background">Background</a> · <a href="https://github.com/Richmondbh/Richmondbh/blob/main/README.md#lets-work-together">Contact</a></p>
 
 **C#/.NET & Azure developer | Shopify | Python automation**
 
