@@ -4,7 +4,7 @@
 
 I'm a software developer based in Östersund, Sweden, a **Microsoft Certified Azure Developer Associate (AZ-204)**, and the Founder & Lead Software Developer at **RHB Digital**. I build APIs, business applications and automation tools, and customize Shopify stores for small businesses.
 
-[Website](https://rhbdigital.se) · [LinkedIn](https://www.linkedin.com/in/richmond-boakye-188678207/) · [Upwork](https://www.upwork.com/freelancers/~01f15cfb7bf19dc4ca) · [Fiverr](https://www.fiverr.com/richmondboakye)
+[Website](https://rhbdigital.se) · [LinkedIn](https://www.linkedin.com/in/richmond-boakye-188678207/) 
 
 ## What I work on
 
@@ -35,7 +35,6 @@ This personal project demonstrates backend architecture, cloud integration and t
 | --- | --- | --- |
 | **Beauty By Lin** | Shopify store with custom Liquid sections, product setup, payment and shipping configuration, and an external booking link. | Client project · [Live store](https://beautybylin.se) |
 | **VoicePilot** | Voice and text assistant with Python/FastAPI, React/TypeScript, speech recognition, LLM intent interpretation, SQLite memory and allowlist-validated desktop actions. | Academic project · [Repository](https://github.com/Richmondbh/VoicePilot) |
-| **AfriMarket** | C#/.NET 8 WPF inventory and sales application using MVVM, EF Core and PostgreSQL, with stock alerts, reports and owner/cashier roles. | University thesis MVP; public demonstration version |
 | **Shut the Box** | JavaScript game frontend using a course-provided backend. | Academic project · [Course repository](https://github.com/systemvetenskap/ik120g-shut-the-box-richmondbh) |
 
 ## Background
@@ -46,4 +45,4 @@ My certifications also include **Test-Driven Development in .NET Core – The Ha
 
 ## Let's work together
 
-For API development, Azure integrations, Python automation or Shopify improvements, get in touch through [RHB Digital](https://rhbdigital.se), [LinkedIn](https://www.linkedin.com/in/richmond-boakye-188678207/) or my freelance profiles above. Share your goal, current setup and the problem you want to solve.
+For API development, Azure integrations, Python automation or Shopify improvements, get in touch through [RHB Digital](https://rhbdigital.se), [LinkedIn](https://www.linkedin.com/in/richmond-boakye-188678207/). Share your goal, current setup and the problem you want to solve.
