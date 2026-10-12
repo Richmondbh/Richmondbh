@@ -73,7 +73,11 @@ An invoicing and bookkeeping web app I built for RHB Digital, bringing invoices,
 - Expense tracking, cash-basis profit and loss, quarterly VAT reports, tax reserves, spendable cash and CSV export.
 - Client and project management, with invite-only access and authenticator-app two-step login.
 
-[Explore the project →](https://github.com/Richmondbh/rhbdigital-invoice)
+**Private repository.** Screenshots below show the app with account details removed.
+
+![RHB Digital Books login screen with empty fields](rhb-books-login.png)
+
+![RHB Digital Books expense tracking interface with account details removed](rhb-books-expenses.png)
 
 ### Beauty By Lin · Client project
 
