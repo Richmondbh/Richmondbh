@@ -65,6 +65,16 @@ This personal project demonstrates backend architecture, cloud integration and t
 
 ## More selected work
 
+### RHB Digital Books · Internal business application
+
+An invoicing and bookkeeping web app I built for RHB Digital, bringing invoices, expenses and financial reports into one place.
+
+- Swedish/English invoices with live previews, automatic numbering and VAT calculations, one-page PDF downloads, and email delivery with the PDF attached.
+- Expense tracking, cash-basis profit and loss, quarterly VAT reports, tax reserves, spendable cash and CSV export.
+- Client and project management, with invite-only access and authenticator-app two-step login.
+
+[Explore the project →](https://github.com/Richmondbh/rhbdigital-invoice)
+
 ### Beauty By Lin · Client project
 
 Shopify store with custom Liquid sections, product setup, payment and shipping configuration, and an external booking link.
