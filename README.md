@@ -93,7 +93,7 @@ Voice and text assistant with Python/FastAPI, React/TypeScript, speech recogniti
 
 ### Shut the Box · Academic project
 
-JavaScript game frontend using a course-provided backend. [View course repository →](https://github.com/systemvetenskap/ik120g-shut-the-box-richmondbh)
+JavaScript game frontend using a course-provided backend. [Play game →](https://studenter.miun.se/~ribo1900/)
 
 ## Background
 
