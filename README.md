@@ -95,9 +95,10 @@ Voice and text assistant with Python/FastAPI, React/TypeScript, speech recogniti
 
 JavaScript game frontend using a course-provided backend. [Play game →](https://studenter.miun.se/~ribo1900/)
 
+
 ## Background
 
-Alongside RHB Digital, I work as an **IT Representative at Internationella Engelska Skolan (IES) Östersund**, supporting users, devices, accounts and digital platforms. I am studying **Informatics with a specialisation in Systems Development at Mid Sweden University**.
+Alongside RHB Digital, I work at Internationella Engelska Skolan (IES) Östersund, where I'm responsible for IT, digitalisation and data protection for around 500 students and 60 staff. I introduce and roll out new digital tools, train staff in Google Workspace and responsible AI use, build Google Workspace tools for surveys and tracking, and act as the school's Data Protection Contact Person (GDPR). I'm studying Informatics with a specialisation in Systems Development at Mid Sweden University.
 
 <details>
 <summary><strong>View testing certifications</strong></summary>
