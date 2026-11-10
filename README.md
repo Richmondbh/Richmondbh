@@ -92,8 +92,19 @@ Voice and text assistant with Python/FastAPI, React/TypeScript, speech recogniti
 [![Explore VoicePilot](https://img.shields.io/badge/Explore-VoicePilot-3776AB?style=for-the-badge)](https://github.com/Richmondbh/VoicePilot)
 
 ### Shut the Box · Academic project
+A web version of the dice game Shut the Box, built as the client for a course game API.
 
-JavaScript game frontend using a course-provided backend. [Play game →](https://studenter.miun.se/~ribo1900/)
+- • Solo and multiplayer modes: create or join a room from the lobby, take turns, or follow a live game as a spectator
+- • Real-time updates between players via SignalR, so nobody needs to reload the page (upgraded from an earlier polling version)
+- • All game rules are validated server-side: the client sends player actions to the REST API and renders the response
+- • Login with token-based authentication, async/await fetch calls, and responsive layout with CSS Grid and 3D dice animations
+- • Accessible forms and error messages (ARIA alerts)
+
+Stack: HTML, CSS, JavaScript, REST API, SignalR.
+
+JavaScript game frontend using a course-provided backend.
+
+[Play game →](https://studenter.miun.se/~ribo1900/)
 
 
 ## Background
