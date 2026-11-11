@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Richmondbh/LibraryManagement"><img alt=".NET 9" src="https://img.shields.io/badge/.NET-9-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" /></a>
+  <a href="https://github.com/Richmondbh/LibraryManagement"><img alt=".NET 10" src="https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" /></a>
   <img alt="Azure Developer Associate AZ-204" src="https://img.shields.io/badge/Azure-AZ--204_Certified-0078D4?style=for-the-badge" />
   <a href="https://github.com/Richmondbh/VoicePilot"><img alt="Python automation" src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" /></a>
   <a href="https://beautybylin.se"><img alt="Shopify Liquid" src="https://img.shields.io/badge/Shopify-Liquid-7AB55C?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" /></a>
