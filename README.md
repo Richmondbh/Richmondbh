@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="https://richmondboakye.rhbdigital.se"><img alt="Visit My Portfolio Page" src="https://img.shields.io/badge/Website-RHB_Digital-111827?style=flat-square" /></a>
   <a href="https://rhbdigital.se"><img alt="Visit RHB Digital" src="https://img.shields.io/badge/Website-RHB_Digital-111827?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/richmond-boakye-188678207/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" /></a>
   <a href="https://github.com/Richmondbh?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Richmondbh?label=Follow&amp;style=social" /></a>
